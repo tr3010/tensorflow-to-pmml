@@ -1,0 +1,2 @@
+model_checkpoint_path: "/DHS/model.ckpt"
+all_model_checkpoint_paths: "/DHS/model.ckpt"
